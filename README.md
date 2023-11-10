@@ -23,7 +23,7 @@ Team 4
 + Đăng Ký
 + Đăng bài viết
 + Theo dõi trạng thái đơn hàng
-
++ Giỏ hàng ( Cập nhật mới )
 ## Packages used 
 ```
 + cupertino_icons: ^1.0.2
