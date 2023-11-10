@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">28331018708</string>
+    <string name="google_api_key" translatable="false">AIzaSyAMc5IyFSsYAkxBIC-AS8GoQ30oIEiztC0</string>
+    <string name="google_app_id" translatable="false">1:28331018708:android:c1681edcc5a1a8a590ae41</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAMc5IyFSsYAkxBIC-AS8GoQ30oIEiztC0</string>
+    <string name="google_storage_bucket" translatable="false">bangiay-302fd.appspot.com</string>
+    <string name="project_id" translatable="false">bangiay-302fd</string>
+</resources>

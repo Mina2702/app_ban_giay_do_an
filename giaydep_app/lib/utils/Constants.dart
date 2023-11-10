@@ -1,0 +1,3 @@
+class Constants{
+  static String fcmAccessToken = "AAAABpipCdQ:APA91bEe2TRzZ5HYi6tzsfKlin7_4URSxxt5NOp18P7UGgYWwp9ae95dvUwTOYPNYRx5kBMOZad5TvkoR7fPVSqK54SeARzUE5juHWanytPXd6bmBO_3iq7JBRwXDsePffIMQ-EEiNPb";
+}
