@@ -66,3 +66,8 @@ Giải Thích các package:
 ```
 + Link Figma: https://www.figma.com/file/1Wwf8ILVdF0feDiLutBUMF/%C4%90%E1%BB%93-%C3%A1n-di-%C4%91%E1%BB%99ng-n%C3%A2ng-cao?type=design&node-id=3-985&mode=design&t=vFlX4tjziDzteqDy-0
 ```
+## Tài khoản test
+```
++ tài khoản người dùng: khach1@gmail.com ; pass 123456
++ tài khoản admin: admin1@gmail.com ; pass 123456
+```
